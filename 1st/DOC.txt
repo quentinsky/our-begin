@@ -1,2 +1,0 @@
-# author:quentin
-this is my frist gitfile.
